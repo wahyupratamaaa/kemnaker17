@@ -73,9 +73,8 @@ http://localhost:3000
 
 ## 📸 Screenshots
 Add a screenshot of your application here to make it more visually appealing:
-![Checkout Page](public/demo/Checkout.png)
-![Homepage](public/demo/Homepage.png)
-![Menu Page](public/demo/Menu.png)
+![Checkout Page](https://github.com/wahyupratamaaa/kemnaker17/raw/main/public/demo/Checkout.png)
+
 
 
 
