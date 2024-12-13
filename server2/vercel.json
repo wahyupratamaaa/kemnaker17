@@ -1,4 +1,4 @@
 {
   "version": 2,
-  "rewrites": [{ "source": "/produk", "destination": "/app.js" }]
+  "rewrites": [{ "source": "/produck(.*)", "destination": "/app.js" }]
 }
