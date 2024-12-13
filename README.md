@@ -71,12 +71,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-Add a screenshot of your application here to make it more visually appealing:
-![Checkout Page](https://github.com/wahyupratamaaa/kemnaker17/raw/main/public/demo/Checkout.png)
-
-
-
 
 
 ## 📚 Learn More
@@ -96,15 +90,10 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 🛡️ License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 📧 Contact
 Feel free to reach out for support or collaboration:
-- **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: wahyupratamaa.id@gmail.com
+- **GitHub**: [Your GitHub Profile]([https://github.com/your-username](https://github.com/wahyupratamaaa))
 
 ---
 
