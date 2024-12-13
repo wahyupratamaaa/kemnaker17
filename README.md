@@ -73,6 +73,9 @@ http://localhost:3000
 
 ## 📸 Screenshots
 Add a screenshot of your application here to make it more visually appealing:
+![Deskripsi Gambar](public/demo/Homepage.png)
+![Deskripsi Gambar](public/demo/Menu.png)
+![Deskripsi Gambar](public/demo/Checkout.png)
 
 
 
