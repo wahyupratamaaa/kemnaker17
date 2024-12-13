@@ -1,12 +1,6 @@
-# Supabase Integration Project 🌟
+# Madura24Jam Project 🌟
 
-Welcome to my Supabase Integration Project! This repository demonstrates how to seamlessly integrate Supabase into a web application for database operations, authentication, and more. 🚀
-
----
-
-## 🛠️ Project Overview
-This project uses Supabase for backend functionalities, including:
-- **Database Operations**: Perform CRUD operations effortlessly.
+Heyy welcome to my Project! 🚀
 
 ---
 
