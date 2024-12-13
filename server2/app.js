@@ -3,7 +3,7 @@ const app = express();
 const cors = require("cors");
 const { createClient } = require("@supabase/supabase-js");
 const dotenv = require("dotenv");
-const port = 3080;
+const port = 3000;
 
 dotenv.config();
 

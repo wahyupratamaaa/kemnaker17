@@ -11,7 +11,7 @@ const Card = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:3080/produk")
+      .get("http://localhost:3000/produk")
       .then((response) => {
         setProducts(response.data);
         setLoading(false);
