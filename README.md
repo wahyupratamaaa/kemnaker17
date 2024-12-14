@@ -85,18 +85,6 @@ http://localhost:3000
 
 ---
 
-## Screenshot
-
-Here is a screenshot of the project:
-
-# Project Saya
-
-## Screenshot
-
-Berikut adalah screenshot dari aplikasi saya:
-
-![Gambar 1](https://imgur.com/a/N2XzfGK)
-
 ## 📚 Learn More
 
 Check out these resources for additional information:
